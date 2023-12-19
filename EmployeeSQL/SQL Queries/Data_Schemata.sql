@@ -1,6 +1,4 @@
--- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
+-- Data Schemata that illustrates the relationships between each table and their constraints
 
 CREATE TABLE "Departments" (
     "dept_no" VARCHAR(200)   NOT NULL,
